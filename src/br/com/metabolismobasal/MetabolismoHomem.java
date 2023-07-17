@@ -6,21 +6,21 @@ public class MetabolismoHomem implements IBasal {
 
     @Override
     public float indiceBasal() {
-        return 0;
+        return 66;
     }
 
     @Override
     public float indicePeso() {
-        return 0;
+        return 13.5f;
     }
 
     @Override
     public float indiceAltura() {
-        return 0;
+        return 5;
     }
 
     @Override
     public float indiceIdade() {
-        return 0;
+        return 6.75f;
     }
 }
