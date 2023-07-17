@@ -22,4 +22,13 @@ public class MetabolismoMulher implements IBasal {
     public float indiceIdade() {
         return 4.68f;
     }
+    public int valPeso(int val){
+        return val;
+    }
+    public int valAltura(int val){
+        return val;
+    }
+    public int valIdade(int val){
+        return val;
+    }
 }
